@@ -1,7 +1,7 @@
 # Linear Programming Assignment
 
 ## Description
-This is an assignment I took in CS31920 where I had to solve a given problem using linear programming. 
+This is an assignment I took in the CS31920 Advanced Algorithms module where I had to solve a given problem using linear programming. 
 
 ## Documentation
 
